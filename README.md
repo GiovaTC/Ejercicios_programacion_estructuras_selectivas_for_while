@@ -9,6 +9,10 @@
 ## 3. Elabora un algoritmo que solicite la edad de 2 hermanos y muestre un mensaje indicando la edad del mayor y cuantos años de diferencia tiene con el menor.
 ![image](https://github.com/user-attachments/assets/b33a5acd-3e9a-4773-b7b6-5b18ef3f668f)
 
+## 4. Elabora un algoritmo para leer 3 números enteros diferentes entre sí, y determinar el número mayor de los tres.
+![image](https://github.com/user-attachments/assets/76e4d656-d7aa-4594-8da9-3eea7e163f0f)
+
+
 
 
 
