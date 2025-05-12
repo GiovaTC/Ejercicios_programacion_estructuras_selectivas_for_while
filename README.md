@@ -15,6 +15,10 @@
 ## 5. Elabore un algoritmo que contenga los número pares del 1 al 10.
 ![image](https://github.com/user-attachments/assets/00e0e42c-376e-4c74-971c-a8edfae9aa88)
 
+## 6. Elaborar un algoritmo que solicite la edad de 200 personas, y que muestre cuantos son mayores y menores de edad hay. 
+![image](https://github.com/user-attachments/assets/3d9470ea-228f-4ddf-86f0-62251c72896f)
+
+
 
 
 
