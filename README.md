@@ -12,6 +12,9 @@
 ## 4. Elabora un algoritmo para leer 3 números enteros diferentes entre sí, y determinar el número mayor de los tres.
 ![image](https://github.com/user-attachments/assets/76e4d656-d7aa-4594-8da9-3eea7e163f0f)
 
+## 5. Elabore un algoritmo que contenga los número pares del 1 al 10.
+![image](https://github.com/user-attachments/assets/00e0e42c-376e-4c74-971c-a8edfae9aa88)
+
 
 
 
